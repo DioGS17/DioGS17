@@ -6,9 +6,9 @@
 
 
 ### 🧰 Tecnologias que uso
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Conda](https://img.shields.io/badge/conda-44A833?style=flat&logo=anaconda&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
