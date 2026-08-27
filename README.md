@@ -1,5 +1,5 @@
 ## Diogo Santos 👋
-- Estudante de Engenharia da Computação na Universidade do Estado do Amazonas
+- Estudante de Engenharia da Computação na Escola Superior de Tecnologia (EST) na Universidade do Estado do Amazonas (UEA)
 
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DioGS17&layout=compact&langs_count=6&theme=blueberry)
   ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=DioGS17&show_icons=true&theme=blueberry)
